@@ -1,10 +1,11 @@
 #This file will be used to add two floats 
+# Declaring and intializing variables
 .data 
 floatNum1: .float 3.12
 floatNum2: .float 3.14 
 message: .asciiz "The sum of the two float numbers is: "
 
-# Declaring and intializing variables
+# Computing the sum of the two floats
 .text 
 lwc1 $f1, floatNum1
 lwc1 $f2, floatNum2

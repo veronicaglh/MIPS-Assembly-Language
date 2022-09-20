@@ -4,7 +4,7 @@
 prompt1: .asciiz "Enter the number: "
 prompt2: .asciiz "The factorial of the number is: "
 
-# Computing the factorial of the 
+# Computing the factorial of the number that has been received from the user
 .text
 #To print prompt1
 li $v0, 4           

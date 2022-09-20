@@ -10,7 +10,7 @@
 # The first folder will contain programs that add and subtract double, float and intergers. 
 # However the values of these numbers will be not be received from the user but is already determined. 
 # If the user wants to change the values of these numbers they can do so by editing the code 
-# The second folder will be able to reieve value from the user and execute the program based of that. 
+# The second folder will be able to receive value from the user and execute the program based of that. 
 
 
 #This file will add two doubles. 
